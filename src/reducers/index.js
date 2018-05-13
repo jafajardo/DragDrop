@@ -1,5 +1,6 @@
 import { combineReducers } from 'redux';
+import todoListDispatcher from './reducers-ToDoList';
 
 export default combineReducers({
-  sample: (state = {}) => state
+  todoListDispatcher: todoListDispatcher
 });

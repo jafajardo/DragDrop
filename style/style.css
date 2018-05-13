@@ -1,0 +1,14 @@
+
+.todoBar {
+  margin : 1rem 1rem 0rem 1rem;
+}
+
+.mainTodoList {
+  margin : 1.5rem;
+}
+
+.todoItem {
+  padding : 0.5rem;
+  margin : 1rem;
+  border : 0.05rem solid #5b5959;
+}
